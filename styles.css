@@ -1,0 +1,42 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  
+  #container {
+    width: 80%;
+    background-color: bisque;
+    text-align: center;
+  }
+  
+  #main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  ul li {
+    text-align: left;
+    margin-bottom: 5px;
+  }
+  
+  .bold {
+    font-weight: 700;
+  }
+  
+  .qoute {
+    font-style: italic;
+  }
+  
+  #bold-lg {
+    font-weight: 900;
+  }
+  
+  img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+  
